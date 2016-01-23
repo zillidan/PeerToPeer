@@ -22,15 +22,19 @@ ______
 ###Demo Screenshots
 
 Server: 
+
 ![Server](https://raw.githubusercontent.com/zillidan/PeerToPeer/master/Screenshots/Server.jpg "Server")
 
 Client 1: 
+
 ![Client 1](https://raw.githubusercontent.com/zillidan/PeerToPeer/master/Screenshots/Client%201.jpg "Client 1")
 
 Client 4: 
+
 ![Client 4](https://raw.githubusercontent.com/zillidan/PeerToPeer/master/Screenshots/Client%204.jpg "Client 4")
 
-Server: 
+Client 5: 
+
 ![Client 5](https://raw.githubusercontent.com/zillidan/PeerToPeer/master/Screenshots/Client%205.jpg "Client 5")
 
 
