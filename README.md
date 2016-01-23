@@ -1,5 +1,5 @@
 # PeerToPeer
-##A peer to peer application sharing a file among 5 clients on a single machine using different ports.
+##A peer to peer application sharing a file among 5 clients on a single machine.
 
 ______
 
