@@ -36,7 +36,3 @@ Client 4:
 Client 5: 
 
 ![Client 5](https://raw.githubusercontent.com/zillidan/PeerToPeer/master/Screenshots/Client%205.jpg "Client 5")
-
-
-
-###Happy Coding!
